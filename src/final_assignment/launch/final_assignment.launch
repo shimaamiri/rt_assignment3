@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+	<node pkg="final_assignment" type="user_interface.py" name="user_interface" output = "screen"/>
+
+	<node pkg="final_assignment" type="achieve_goal.py" name="achieve_goal" output = "screen"/>
+
+	<node pkg="final_assignment" type="teleop_avoid.py" name="teleop_avoid" output = "screen"/>
+
+</launch>
