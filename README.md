@@ -176,17 +176,9 @@ The main function : It asks the user to insert a given position and therefore se
 	rate.sleep()
 			
 ```
-
-You can view the simulation below.
-
-
-![Simulation_video (1)](https://user-images.githubusercontent.com/93926797/188445456-4ef9b621-0485-4f01-936d-8112092529a7.gif)
-
-
-
 __FlowChart__
 
-![Flowchart](Flowchart_RT1_3.png)
+![Flowchart](https://github.com/shimaamiri/rt_assignment3/blob/master/Flowchart_RT1_3.png)
 
 __Conclusion and Improvements__
 + We can clearly see in some of the cases that the robot seems to not choose the best possible path. Hence, there can be a modification where the robot's direction can be manually adjusted while it is autonomously moving.
